@@ -27,13 +27,4 @@
 		fireworks.start();
 	}
 
-	var warning = ['Jangan Lupa Mandi Yah !', 'Jangan Lupa Makan Yah !', 'Jangan Lupa Shallat Yah !', 'Jangan Lupa Pikirin Aku Yah !'];
-function myWarning(ok) {
-          for(var i=0;i<warning.length;i++) {
-              setTimeout(alert(warning[i]), 1000);
-          }
-	         }
-
-
-myWarning(warning);
-
+	
